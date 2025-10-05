@@ -1,9 +1,11 @@
 #!url=https://raw.githubusercontent.com/khoungdung/Module_All_VTN/refs/heads/main/All_ByVTN
+#!url= https://raw.githubusercontent.com/khoungdung/Module_All_VTN/refs/heads/main/All_ByVTN
 #!name=All In One
 #!desc=Được tổng hợp bởi Vũ Thanh Nghị
 #!author=vuthanhnghi
 #!tgchannel=https://t.me/vuthanhnghi
-#!moduleUrl=https://raw.githubusercontent.com/khoungdung/Module_All_VTN/refs/heads/main/All_ByVTN
+#!moduleUrl= https://raw.githubusercontent.com/khoungdung/Module_All_VTN/refs/heads/main/All_ByVTN All_In_One.sgmodule
+#!howtouse=Shadowrocket
 #Shadowrocket Configuration - All IN ONE
 
 [General]
